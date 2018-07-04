@@ -1,6 +1,6 @@
 # Starter Web Project 
 
-This is a project to show how to use Git and GitHub.
+This is a project to show how to use Git and GitHub. And to show stashes.
 
 ## Introduction
 
