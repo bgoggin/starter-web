@@ -12,4 +12,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
+Copy to a web site web root.
+
 ## How To Contribute
