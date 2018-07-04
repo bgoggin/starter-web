@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 Copy to a web site web root.
 
 ## How To Contribute
+
+## Copyright
+
+2018 bgoggin
