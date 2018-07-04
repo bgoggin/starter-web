@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Copy to a web site web root. That's all you need to do.
+Copy to a web site web root. That's all you need to do. Just adding a little more.
 
 ## How To Contribute
 
