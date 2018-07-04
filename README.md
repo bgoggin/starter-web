@@ -20,4 +20,4 @@ Please fork this repository and issue pull request for review.
 
 ## Copyright
 
-2018 bgoggin
+2018 bgoggin All rights reserved.
