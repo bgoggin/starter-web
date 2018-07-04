@@ -1,8 +1,10 @@
 # Starter Web Project 
 
+This is a project to show how to use Git and GitHub.
+
 ## Introduction
 
-This repository is for showing how Git and GitHub work
+This shows how different pats of git work.
 
 ## Purpose
 
